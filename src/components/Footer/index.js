@@ -4,7 +4,7 @@ import './style.css';
 function Footer() {
   return (
     <footer className="footer">
-      <p>Caio B Zamana, 2023.</p>
+      <p>Desenvolvido por Pablo Henrique e atualizado por Caio B. Zamana, 2023.</p>
     </footer>
   );
 }
